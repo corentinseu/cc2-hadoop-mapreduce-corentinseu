@@ -1,6 +1,6 @@
 # CC2 – MapReduce sur `ml-25m/tags.csv`
 
-**Auteurs :** Corentin Seuberras, Nino Mignard  
+**Auteurs :** Corentin Seu, Nino Mignard  
 **Date :** 09/04/2026  
 **Fichier source :** `ml-25m/tags.csv`  
 **Format :** `userId,movieId,tag,timestamp`
